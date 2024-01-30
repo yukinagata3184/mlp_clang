@@ -1,0 +1,5 @@
+# gcc
+*o
+*exe
+# hyperparameter dir
+/hyperparam_init/

@@ -1,3 +1,5 @@
+// 3 layers(input, hidden, output) MLP's param etc.
+// auther:yukinagata3184
 #ifndef param
 #define param
 
@@ -19,6 +21,6 @@
 #define RAND ((double)rand()/RAND_MAX)
 
 // function prototypes
-void init(void);
+void init_rand(void);
 
 #endif
